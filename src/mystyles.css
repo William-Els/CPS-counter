@@ -1,0 +1,29 @@
+.clicks {
+    color: blue;
+    text-align: center;
+    font-size: 50px;
+}
+.cps {
+    font-size: 55px;
+    color: rgb(0, 255, 72);
+}
+.average {
+    font-size: 45px;
+    color: red;
+}
+.orange {
+    color: orange;
+}
+.btn {
+    width: 550px;
+    padding: 20px;
+    align-items: center;
+    height: 100px;
+    color: orange;
+}
+.idk {
+    font-size: 200px;
+}
+button {
+    padding: 200px;
+}
